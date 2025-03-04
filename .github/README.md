@@ -1,4 +1,4 @@
-<a href="https://github.com/Mrxbroken011"> <img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=30&duration=4000&pause=1000&color=F7F7F7&width=435&lines=Hey%2C+my+self+MrBroken+;From+Chandhighar%2C+🇮🇳+India;Python+Dev!;Telegram%3A+%40Brokenxnetwork" alt="https://t.me/Brokenxnetwork" /></a>
+<a href="https://github.com/Mrxbroken011"> <img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=30&duration=4000&pause=1000&color=F7F7F7&width=435&lines=Hey%2C+my+self+Mr+Alfa+;From+New+Delhi%2C+🇮🇳+India;Python+Dev!" alt="https://t.me/Brokenxnetwork" /></a>
 
 
 
@@ -8,24 +8,11 @@
 <div align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
     
- -->    <img align="middle" src="https://profile-counter.glitch.me/mrxbroken011/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/Alfa102/count.svg" />
 
 </div>
 
-## 𝗪𝗔𝗥𝗡𝗜𝗡𝗚 ⚠️
-```console
- ⚠️ 𝗪𝗔𝗥𝗡𝗜𝗡𝗚 ⚠️
 
-
-    LET ME TELL YOU SOMETHING...
--------------------------------------
-   • 𝗜'𝗺 𝗡𝗼𝘁 𝗔 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿
-    • 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹𝗹𝘆 𝗜'𝗺 𝗔 𝗗𝗼𝗰.. 
-     • 𝗖𝗼𝗱𝗶𝗻𝗴 𝗜𝘀 𝗠𝘆 𝗛𝗼𝗯𝗯𝘆 
-      • 𝗜'𝗺 𝗝𝘂𝘀𝘁 𝗔 𝗡𝗼𝗼𝗯 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿
--------------------------------------
-
- ```
 
 
 [<img src="https://github.com/mrxbroken011/brokenxnetwork/blob/master/resources/hr.gif"/>](https://github.com/mrxbroken011)
@@ -38,7 +25,7 @@
 
 [<img src="https://github.com/mrxbroken011/brokenxnetwork/blob/master/resources/hr.gif"/>](https://github.com/mrxbroken011)
 
-<p align="center"><a href="https://t.me/BROKENXNETWORK"><img src="https://telegra.ph/file/91c6683a0074d9dce03c1.jpg"></a></p>
+<!--<p align="center"><a href="https://t.me/BROKENXNETWORK"><img src="https://telegra.ph/file/91c6683a0074d9dce03c1.jpg"></a></p>-->
 
 
 
@@ -49,7 +36,7 @@
 <h1> <img src="https://github.com/mrxbroken011/brokenxnetwork/blob/master/resources/analytics.webp" width="57px"> <b>ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs</b> </h1>
 
 
-[<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrxbroken011&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=MrBroken%27s+GitHub+Stats?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/mrxbroken011) [<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrxbroken011&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/mrxbroken011)
+[<img align="center" src="https://github-readme-stats.vercel.app/api?username=alfa102&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=Alfa%27s+GitHub+Stats?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/Alfa102) [<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alfa&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/Alfa102)
 
 
 [<img src="https://github.com/mrxbroken011/brokenxnetwork/blob/master/resources/hr.gif"/>](https://github.com/mrxbroken011)
@@ -62,7 +49,7 @@
 
 [<img src="https://github.com/mrxbroken011/brokenxnetwork/blob/master/resources/hr.gif"/>](https://github.com/mrxbroken011)
 
-<p align="center">
+<!--<p align="center">
   <b>💥 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 📱</b>
     <br>
   <a href="https://t.me/BrokenxNetwork">
@@ -74,4 +61,4 @@
   <a href="https://ig.me/IG_.MR.BROKEN">
     <img src="https://raw.githubusercontent.com/mrxbroken011/mrxbroken011/master/resources/insta_icon.png" width="80px"/>
   </a>
-</p>
+</p>-->
